@@ -94,11 +94,7 @@ This project is intended for educational purposes only. Original design and asse
 Feel free to fork this project and submit pull requests for improvements.
 
 ## 📧 Contact
-Your Name - [your@email.com]
+Your Name - [medkoursalaheddine@gmail.com]
 
-Project Link: [https://github.com/yourusername/etsy-clone](#)
+Project Link: [https://github.com/salahmed-ctrlz/EtsyLandingPageReplica]
 
-Citations:
-[1] https://pplx-res.cloudinary.com/image/upload/v1735851625/user_uploads/vfpuzgzPLPsCZYP/image.jpg
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/25113947/87a4a798-2658-46a4-8487-7fad186ea0b0/index.html
-[3] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/25113947/3e75ad1f-2965-49c7-ae34-66d8957fa80f/styles.css
