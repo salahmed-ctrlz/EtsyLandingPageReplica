@@ -36,12 +36,12 @@ A pixel-perfect recreation of Etsy.com's landing page built from scratch using v
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/etsy-clone.git
+https://github.com/salahmed-ctrlz/EtsyLandingPageReplica.git
 ```
 
 2. Open index.html in your browser
 ```bash
-cd etsy-clone
+cd EtsyLandingPageReplica
 open index.html
 ```
 
